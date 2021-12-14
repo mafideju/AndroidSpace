@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="recycler_view_no_android_kotlin">Recycler View no Android Kotlin</string>
+</resources>

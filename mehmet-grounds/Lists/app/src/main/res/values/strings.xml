@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Lists</string>
+
+    <string-array name="countries">
+        <item>Argentina</item>
+        <item>Australia</item>
+        <item>Alemanha</item>
+        <item>Belgica</item>
+        <item>Brasil</item>
+        <item>Bolivia</item>
+        <item>Congo</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Cambodja</item>
+        <item>França</item>
+        <item>Croácia</item>
+        <item>Cuba</item>
+        <item>Espanha</item>
+        <item>Estados Unidos da America</item>
+        <item>Canada</item>
+        <item>Mexico</item>
+        <item>Republica Dominicana</item>
+        <item>Costa Rica</item>
+        <item>Aruba</item>
+        <item>Finlandia</item>
+        <item>Noruega</item>
+        <item>Haiti</item>
+        <item>Iraque</item>
+        <item>Italia</item>
+        <item>Jamaica</item>
+        <item>Laos</item>
+        <item>Vietnã</item>
+        <item>Nicarágua</item>
+        <item>Holanda</item>
+        <item>Paquistão</item>
+        <item>Panamá</item>
+        <item>Russia</item>
+        <item>Servia</item>
+        <item>Senegal</item>
+        <item>Mawi</item>
+        <item>Japão</item>
+        <item>Suécia</item>
+        <item>Tailandia</item>
+        <item>Uruguai</item>
+        <item>Zaire</item>
+        <item>Zambia</item>
+    </string-array>
+</resources>

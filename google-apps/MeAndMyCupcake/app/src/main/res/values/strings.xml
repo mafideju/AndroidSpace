@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+     Copyright (C) 2020 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="app_name">Cupcake</string>
+    <string name="order_cupcakes">Pedir Cupcakes</string>
+    <string name="one_cupcake">Um Cupcake</string>
+    <string name="six_cupcakes">Seis Cupcakes</string>
+    <string name="twelve_cupcakes">Doze Cupcakes</string>
+    <string name="choose_flavor">Escolha o  Sabor</string>
+    <string name="vanilla">Baunilha</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="red_velvet">Morango</string>
+    <string name="salted_caramel">Caramelo</string>
+    <string name="coffee">Café</string>
+    <string name="special_flavor">Sabor Especial</string>
+    <string name="cancel">Cancelar</string>
+    <string name="next">Próximo</string>
+    <string name="choose_pickup_date">Escolha a Data de Retirada</string>
+    <string name="order_summary">Resumo do Pedido</string>
+    <string name="send">Enviar Pedido</string>
+    <string name="quantity">Quantidade</string>
+    <string name="flavor">Sabor</string>
+    <string name="pickup_date">Data de Retirada</string>
+    <string name="subtotal_price">Subtotal %s</string>
+    <string name="total_price">Total %s</string>
+    <string name="new_cupcake_order">Novo Pedido</string>
+    <string name="order_details">Quantidade: %1$s cupcakes \n Sabor: %2$s \nRetirar no dia: %3$s \n
+        Total: %4$s \n\n Grazzie Bella!</string>
+</resources>
